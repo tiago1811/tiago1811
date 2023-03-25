@@ -1,7 +1,7 @@
 <div align="left"> 
 
 ###  **Olá! Eu sou o Tiago de Melo 🙋‍♂️**
-#### Seja bem vindo ao meu GitHub!
+#### Seja bem vindo ao meu mundo GitHub!
 ##### *Criador de conteúdo de programação.*
 </div> 
  
