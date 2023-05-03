@@ -17,8 +17,8 @@
 
 <div align="left">
   <a href="https://github.com/tiago1811">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tiago1811&theme=blue-green">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago1811&layout=compact&langs_count=7&theme=blue-green" >
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago1811&theme=blue-green&hide_progress=true%layout=compact">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiago1811&layout=compact&langs_count=7&theme=blue-green" >
 
 </div>
 <div vspace="100" hspace="50">
